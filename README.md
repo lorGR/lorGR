@@ -2,7 +2,8 @@
 <h2 align="center">Student of FullStack Web Development</h2>
 
 <div align="center">
-  <p>Programming has always been my passion, but now I am putting all my resources and efforts into taking it to the next level. I'm currently focusing on advancing my web development skills to become a fully-fledged software developer.</p>
+  <p>Programming has always been my passion,but now I am putting all my resources and efforts into taking it to the next level.
+   <br>I'm currently focusing on advancing my web development skills to become a fully-fledged software developer.</p>
 </div>
  
 <div align="center">
