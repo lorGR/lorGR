@@ -2,6 +2,10 @@
 <h2 align="center">Student of FullStack Web Development</h2>
 
 <div align="center">
+  <p>Programming has always been my passion, but now I am putting all my resources and efforts into taking it to the next level. I'm currently focusing on advancing my web development skills to become a fully-fledged software developer.</p>
+</div>
+ 
+<div align="center">
   <h3>Languages I Use:</h3>
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -19,7 +23,7 @@
   </p>
 </div>
 
-<div align ="center">
+<div align="center">
   <h3>Let's Connect:</h3>
   <p>
     <a href="https://www.linkedin.com/in/lior-grishin-100332228/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a>
