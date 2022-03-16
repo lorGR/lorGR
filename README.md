@@ -29,5 +29,6 @@
   <p>
     <a href="https://www.linkedin.com/in/lior-grishin-100332228/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a>
     <a href="https://www.facebook.com/profile.php?id=100007058539463" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-2020-1-1.svg" alt="me in linkedin" height="auto" width="30"/></a>
+    <a href="https://codepen.io/lorGRI" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/codepen-icon.svg" alt="me in linkedin" height="auto" width="30"/></a>
   </p>
 </div>
