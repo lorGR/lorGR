@@ -1,9 +1,13 @@
 <h1 align="center">Hey, I’m Lior Grishin 👋</h1>
-<h2 align="center">Student of FullStack Web Development</h2>
+<h2 align="center">Junior FullStack Developer</h2>
 
 <div align="center">
-  <p>Programming has always been my passion,but now I am putting all my resources and efforts into taking it to the next level.
-   <br>I'm currently focusing on advancing my web development skills to become a fully-fledged software developer.</p>
+  <p>Junior Fullstack Web Developer, looking for my next position.
+Skilled in: React , JavaScript/TypeScript, HTML/CSS/SCSS, Node.js, Express.js, BEM Model and MongoDB. Also familiar with Python, C# , C.
+
+A highly motivated developer. Responsible and professional, autodidact ,fast learner, meeting time schedules and working under pressure.
+Have a background of excellence.
+I am interested in a place where I can contribute to development of the existing system and to the company’s growth while learning new skills and tools..</p>
 </div>
  
 <div align="center">
