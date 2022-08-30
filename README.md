@@ -13,6 +13,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
     <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="35" height="35">
+    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="35" height="35"/>
   </p>
 </div>
 
