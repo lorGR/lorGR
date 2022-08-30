@@ -21,7 +21,7 @@
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="vscode" width="35" height="35"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="Mongo DB" width="35" height="35"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="Mongo DB" height="35"/>
   </p>
 </div>
 
