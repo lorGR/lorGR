@@ -2,7 +2,7 @@
 <h2 align="center">Junior FullStack Developer</h2>
 
 <div align="center">
-  <p>Junior Fullstack Web Developer, looking for my next position.
+  <p>Junior Fullstack Developer, looking for my next position.
 Skilled in: React , JavaScript/TypeScript, HTML/CSS/SCSS, Node.js, Express.js, BEM Model and MongoDB. Also familiar with Python, C# , C.
 
 A highly motivated developer. Responsible and professional, autodidact ,fast learner, meeting time schedules and working under pressure.
