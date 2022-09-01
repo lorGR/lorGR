@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I’m Lior Grishin 👋</h1>
-<h2 align="center">Junior FullStack Developer</h2
+<h2 align="center">Junior FullStack Developer</h2>
 
 <div align="center">
   <p>Junior Fullstack Developer, looking for my next position.
