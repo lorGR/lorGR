@@ -2,7 +2,6 @@
 <h2 align="center">Junior FullStack Developer</h2>
 
 
-
 <div align="center">
   <p>Junior Fullstack Developer, looking for my next position.
 Skilled in: React , JavaScript/TypeScript, HTML/CSS/SCSS, Node.js, Express.js, BEM Model and MongoDB. Also familiar with Python, C# , C.
